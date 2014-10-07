@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Week_1_Assignment
+My first repository on GitHub.
